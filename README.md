@@ -1,6 +1,6 @@
 # Heyang Ma
 
-I studied Data Science in Health at UCLA and Mathematics at Warwick. My projects cover clinical data, statistical modeling, and machine learning.
+Master of Data Science in Health at UCLA, with a Mathematics degree from Warwick. I use Python, R, and SQL for health data analysis, statistical modeling, and machine learning.
 
 I am seeking data science, data analysis, biostatistics, and research roles in the United States.
 
