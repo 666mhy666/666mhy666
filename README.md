@@ -11,7 +11,7 @@ I am seeking data science, data analysis, biostatistics, and research roles in t
 | [ICU Length of Stay Prediction](https://666mhy666.github.io/projects/mimic-iv-icu-los/) | Build a clinical cohort and evaluate whether ICU stays last at least two days, with patients kept separate across training and testing. |
 | [Depression Trajectories and Drug Concentration](https://666mhy666.github.io/projects/longitudinal-depression/) | Model changes in depression scores over four weeks and examine how trajectories vary with plasma desipramine concentration. |
 | [Medicaid Lottery and Health Measures](https://666mhy666.github.io/projects/medicaid-lottery-analysis/) | Estimate differences in blood pressure and HbA1c by lottery assignment, with household clustering and a check of outcome definitions. |
-| [Maternal Smoking and Birth Weight](https://666mhy666.github.io/projects/maternal-smoking-birthweight/) | Compare unadjusted and adjusted birth weight differences, with explicit confounding limits and consistent analysis cohorts. |
+| [Maternal Smoking and Birth Weight](https://666mhy666.github.io/projects/maternal-smoking-birthweight/) | Compare how the estimated birth weight difference associated with maternal smoking changes after covariate adjustment. |
 
 [Additional projects and code](https://666mhy666.github.io/) include glaucoma progression, Bayesian trial planning, spectral clustering, and image representation learning. These are independent UCLA course projects, revised for this portfolio.
 
